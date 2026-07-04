@@ -7,7 +7,7 @@ icon: https://owlbear-rodeo-bubbles-extension.onrender.com/logo.png
 tags:
   - combat
 manifest: https://owlbear-rodeo-bubbles-extension.onrender.com/manifest.json
-learn-more: https://github.com/SeamusFinlayson/Bubbles-for-Owkbear-Rodeo
+learn-more: https://github.com/SeamusFinlayson/Bubbles-for-Owlbear-Rodeo
 ---
 
 # Stat Bubbles for D&D
