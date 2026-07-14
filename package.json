@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "deploy-site": "./deploy.sh",
     "preview": "vite preview",
     "build-preview": "tsc && vite build && vite preview"
   },
