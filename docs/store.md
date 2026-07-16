@@ -6,7 +6,7 @@ image: https://github.com/SeamusFinlayson/Bubbles-for-Owlbear-Rodeo/assets/77430
 icon: https://owlbear-rodeo-bubbles-extension.onrender.com/logo.png
 tags:
   - combat
-manifest: https://owlbear-rodeo-bubbles-extension.onrender.com/manifest.json
+manifest: https://stat-bubbles.seamus-finlayson.ca/manifest.json
 learn-more: https://github.com/SeamusFinlayson/Bubbles-for-Owlbear-Rodeo
 ---
 
